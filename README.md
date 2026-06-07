@@ -37,3 +37,4 @@ Lately I've been experimenting with building AI agents — not as a demo exercis
 - **Adobe XD Data Science:** Developed logistic regression model for activation-point detection — +26% activation rate improvement.
 
 📧 [karthikdmoorthi@gmail.com](mailto:karthikdmoorthi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karthikeyandhakshinamoorthy/) · [GitHub](https://github.com/karthikmoorthi)
+
