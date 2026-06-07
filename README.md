@@ -4,7 +4,7 @@
 
 **Senior Product Manager — AI-native products · Relevance systems · 0→1**
 
-I've spent a decade building ML-powered products at Adobe and Meta — recommendation engines, ranking systems, and consumer experiences at scale. What makes me different: I sit inside ML decisions, not just around them. I can define training objectives, debug signal sparsity, and reason about model trade-offs first-principles, then translate that into product strategy that actually ships.
+I've spent a decade building ML-powered products at Adobe and Meta — recommendation engines, ranking systems, and consumer experiences at scale. Product leader at the intersection of AI systems and consumer products, with a track record of shipping relevance and ranking systems at Meta scale. At Instagram, led creator-personalized ranking for Reels, 0→1 launch of Edits as the founding AI/ML PM, driving measurable gains in creator production, and engagement. Co-built production AI agents (0→1), compressing multi-day MLE workflows into under an hour through prompt decomposition, RAG-engineered context, human-in-the-loop approval, and eval harnesses.
 
 Now focused on the intersection of traditional relevance systems and LLM-native products — the space where ranking meets reasoning.
 
