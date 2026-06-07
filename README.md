@@ -2,9 +2,9 @@
 
 <!-- Add your photo here: ![Karthik](your-photo.jpg) -->
 
-**Senior Product Manager — AI-native products · Relevance systems · 0→1**
+**Product Manager — AI-native products · Relevance systems · 0→1**
 
-I've spent a decade building ML-powered products at Adobe and Meta — recommendation engines, ranking systems, and consumer experiences at scale. Product leader at the intersection of AI systems and consumer products, with a track record of shipping relevance and ranking systems at Meta scale. At Instagram, led creator-personalized ranking for Reels, 0→1 launch of Edits as the founding AI/ML PM, driving measurable gains in creator production, and engagement. Co-built production AI agents (0→1), compressing multi-day MLE workflows into under an hour through prompt decomposition, RAG-engineered context, human-in-the-loop approval, and eval harnesses.
+Product leader at the intersection of AI systems and consumer products, with a track record of shipping relevance and ranking systems at Meta scale. At Instagram, led creator-personalized ranking for Reels, 0→1 launch of Edits as the founding AI/ML PM, driving measurable gains in creator production, and engagement. Co-built production AI agents (0→1), compressing multi-day MLE workflows into under an hour through prompt decomposition, RAG-engineered context, human-in-the-loop approval, and eval harnesses.
 
 Now focused on the intersection of traditional relevance systems and LLM-native products — the space where ranking meets reasoning.
 
