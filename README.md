@@ -24,10 +24,11 @@ Lately I've been experimenting with building AI agents — not as a demo exercis
 
 **Meta · Product Manager, Instagram Relevance** · 2024 – Present
 
+- **ML Engineer Productivity:** Led new product bets initiative across 60 ML engineers; built AI coding agents (Project Atlas + Project Prism) that reduced time-to-ship by 1.5–2× and improved developer productivity by 20%.
 - **Meta Edits (0→1):** First PM on relevance for Meta's new video editing app. Owned the ranking stack end-to-end — training objectives, signal design, retrieval and scoring integration. Scaled Templates from 0 to 2M uses/day with a +1.6% production lift.
 - **PTap&Create:** Built a creation-intent model that surfaced the right content at the right moment — +8% incremental creation lift.
 - **Creator Consumption:** Diagnosed and fixed signal gaps across ESR/LSR/Value Model; delivered +0.5% sessions, +1.5% creator production, +7% creator-to-creator engagement.
-- **ML Engineer Productivity:** Led new product bets initiative across 60 ML engineers; built AI coding agents (Project Atlas + Project Prism) that reduced time-to-ship by 1.5–2× and improved developer productivity by 20%.
+
 
 **Adobe · Lead Product Manager** · 2016 – 2024
 
