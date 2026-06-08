@@ -22,7 +22,7 @@ Lately I've been experimenting with building AI agents — not as a demo exercis
 
 ## Background
 
-**Meta · Product Manager, Instagram Relevance** · Nov 2024 – May 2026
+**Meta · Product Manager, Instagram Relevance** · 2024 – Present
 
 - **Meta Edits (0→1):** First PM on relevance for Meta's new video editing app. Owned the ranking stack end-to-end — training objectives, signal design, retrieval and scoring integration. Scaled Templates from 0 to 2M uses/day with a +1.6% production lift.
 - **PTap&Create:** Built a creation-intent model that surfaced the right content at the right moment — +8% incremental creation lift.
