@@ -12,7 +12,7 @@ Now focused on the intersection of traditional relevance systems and LLM-native 
 
 ## What I'm Building
 
-Lately I've been experimenting with building AI agents — not as a demo exercise, but to develop a first-principles feel for where agents actually earn their complexity vs. where a simpler workflow is the right call.
+Lately I've been experimenting with building AI agents — not as a demo exercise, but to develop intuition and understanding for where agents actually earn their complexity vs. where a simpler workflow is the right call.
 
 
 - **Product Scout** - A grounded market/product research agent that produces interview-ready HTML strategy briefs. Point it at a company, product, or domain; approve its research plan; get back a cited, evidence-only landscape brief that ends with Open Strategic Questions — the agent gathers and structures, the PM brings the strategy. Built for two jobs: (1) prepping product strategy interviews, (2) seeding market research for loop-interview presentations.
