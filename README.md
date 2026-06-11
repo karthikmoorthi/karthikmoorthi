@@ -14,6 +14,8 @@ Now focused on the intersection of traditional relevance systems and LLM-native 
 
 Lately I've been experimenting with building AI agents — not as a demo exercise, but to develop a first-principles feel for where agents actually earn their complexity vs. where a simpler workflow is the right call.
 
+
+- **Product Scout - A grounded market/product research agent that produces interview-ready HTML strategy briefs. Point it at a company, product, or domain; approve its research plan; get back a cited, evidence-only landscape brief that ends with Open Strategic Questions — the agent gathers and structures, the PM brings the strategy. Built for two jobs: (1) prepping product strategy interviews, (2) seeding market research for loop-interview presentations.
 - **TotTales** — a React Native / Expo mobile app with a Gemini-powered story generation pipeline. First time writing and shipping an end-to-end LLM integration: prompt design, model selection, eval, and UX.
 - **[Learn Tracker](https://github.com/karthikmoorthi/learn-tracker)** — a personal learning system built with Flask + Gemini. A daily AI-curated reading menu, progress radar across 5 skill tracks, a heatmap, and a bring-your-own-URL ingestion pipeline that fetches and classifies any article or video I find.
 - **MLE Productivity Agents at Meta scale** — as PM, led the design and launch of Project Atlas and Project Prism: AI coding agents for 60+ ML engineers. Defined the agent architecture, task boundaries, and eval criteria; delivered 1.5–2× faster time-to-ship and 20% productivity improvement across the team.
